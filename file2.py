@@ -25,3 +25,6 @@ myjson = json.loads(MYJSON)
 
 fname = myjson['firstName']
 print(fname)
+
+#I am just doing random things
+#for the sake of doing random things
